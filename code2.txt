@@ -1,1 +1,2 @@
 fixed feature2
+add func
