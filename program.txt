@@ -4,5 +4,9 @@ release ver.1.0
 bug fixed
 bug2 fixed
 bug3 fixed
+<<<<<<< HEAD
 -------------------
 program ver.1.0
+=======
+release ver.2.1
+>>>>>>> release
