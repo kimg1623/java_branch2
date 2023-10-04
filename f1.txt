@@ -1,3 +1,4 @@
 feature1
 fix
 fix2
+end of feature1
